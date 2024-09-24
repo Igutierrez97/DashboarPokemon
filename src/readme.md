@@ -27,7 +27,7 @@ Pokémon Dashboard es una aplicación web desarrollada con Next.js, Shadcn/UI, y
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/pokemon-dashboard.git
+   git clone https://github.com/Igutierrez97/DashboarPokemon.git
 
 2. Instalar las depencias:
  
